@@ -98,6 +98,36 @@ The objective was to develop practical experience in identifying system conditio
 | Event Viewer (`eventvwr.msc`) | Windows event log inspection |
 
 
+## Practical Evidence Gallery
+
+The following screenshots demonstrate selected practical activities performed during this lab.
+
+### 01. System Hardware Inspection
+![System Information](evidence/01-system-information/01-system-information.png)
+
+### 02. Startup Application Analysis
+![Startup Analysis](evidence/02-startup-analysis/02-startup-analysis.png)
+
+### 03. Process & Performance Analysis
+![Process Analysis](evidence/03-process-analysis/03-running-process-analysis.png)
+
+### 04. Installed Software Inventory
+![Installed Software](evidence/04-installed-software/04-installed-software-inventory.png)
+
+### 05. Windows Update Inspection
+![Windows Update](evidence/05-windows-update/05-windows-update-status.png)
+
+### 06. Device Driver Inspection
+![Display Driver](evidence/06-driver-inspection/06-display-driver.png)
+
+### 07. Network Troubleshooting
+![Network Connectivity Test](evidence/07-network-troubleshooting/07-02-connectivity-test.png)
+
+### 08. Windows Maintenance Review
+![Reliability Monitor](evidence/08-disk-cleanup-maintenance/08-03-reliability-monitor.png)
+
+[View all practical evidence](evidence/)
+
 
 ## 5. Practical Tasks
 
