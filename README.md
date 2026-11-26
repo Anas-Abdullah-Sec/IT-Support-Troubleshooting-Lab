@@ -477,7 +477,6 @@ It also provided experience in following a structured troubleshooting process, i
 
 
 
-The project demonstrates foundational practical skills relevant to entry-level IT Support, Help Desk, and Desktop Support roles.
 
 
 
